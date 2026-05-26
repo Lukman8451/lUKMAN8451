@@ -130,7 +130,7 @@ Academic project built with WinForms & C# frontend, powered by MySQL backend, st
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lukmanul-hakim&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6600&currStreakLabel=6C63FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lukman8451&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6600&currStreakLabel=6C63FF" />
 
 </div>
 
