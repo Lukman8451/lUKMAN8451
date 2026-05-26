@@ -134,7 +134,6 @@ Academic project built with WinForms & C# frontend, powered by MySQL backend, st
 
 </div>
 
-> ⚠️ **Note:** Replace `lukmanul-hakim` in the URLs above with your actual GitHub username for the stats to work.
 
 ---
 
